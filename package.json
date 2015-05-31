@@ -1,5 +1,5 @@
 {
-  scripts: {
+  "scripts": {
     "lr": "livereload public",
     "build-js": "cp js/*.js public/js",
     "build-sass": "sass style/style.scss:public/style.css --style compressed",
